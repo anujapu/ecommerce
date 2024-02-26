@@ -1,4 +1,6 @@
-This application is a e-commerce application.
+This application is an e-commerce application.
+
+Download Project,open it in any IDE and run it on http://localhost:8080/swagger-ui
 
 Softwares Needed:
 1)IDE
