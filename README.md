@@ -1,5 +1,10 @@
 This application is a e-commerce application.
 
+Softwares Needed:
+1)IDE
+2)MySQL
+3)Postman(Optional)
+
 Below are the APIs:
 1)Authentication API:
 i)Register User-/auth/register
